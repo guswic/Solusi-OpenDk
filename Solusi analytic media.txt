@@ -9,3 +9,5 @@ Hasil pertemuan tesb menghasilkan poin2 sebagai berikut:
 5. Membuat masterplan project.
 
 Semoga poin2 tsb bisa terwujud!!.
+Melakukan review dan clone dari hasil Indonesia  Indikator.
+(catatan ini dibuatkan branch baru: namanya "Analytic based Indonesia Indiktor")
