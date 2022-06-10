@@ -1,1 +1,5 @@
-Meeting pertemuan untuk project analytic media
+Meeting pertemuan untuk project analytic media.
+Hasil pertemuan tesb menghasilkan poin2 sebagai berikut:
+1. Membuat front-end / dashboard graphics
+2. Mempersiapkan API
+3. Banckend membuat pengolahan data cral text (scraping)
